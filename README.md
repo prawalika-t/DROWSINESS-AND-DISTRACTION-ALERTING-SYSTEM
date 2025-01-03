@@ -2,7 +2,7 @@
 
 ## **Overview** 
 
-### The Drowsiness and Distraction Alertness System is a real-time monitoring application designed to enhance road safety by detecting signs of driver drowsiness or distraction. Leveraging computer vision, machine learning, and speech processing techniques, the system ensures the safety of the driver and passengers, reducing the likelihood of accidents.
+### The Drowsiness and Distraction Alerting System is a real-time monitoring application designed to enhance road safety by detecting signs of driver drowsiness or distraction. Leveraging computer vision, machine learning, and speech processing techniques, the system ensures the safety of the driver and passengers, reducing the likelihood of accidents.
 
 ## **Features**
 
