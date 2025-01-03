@@ -1,4 +1,4 @@
-# **Drowsiness and Distraction Alertness System**
+# **Drowsiness and Distraction Alerting System**
 
 ## **Overview** 
 
